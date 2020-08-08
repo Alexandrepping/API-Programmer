@@ -1,5 +1,5 @@
 {
-  "name": "33",
+  "name": "api-programmer",
   "version": "1.0.0",
   "main": "src/index.js",
   "license": "MIT",
@@ -12,5 +12,7 @@
   },
   "devDependencies": {
     "nodemon": "^2.0.4"
-  }
+  },
+  "repository": "https://github.com/Alexandrepping/API-Programmer.git",
+  "author": "alexandrepping <alexandrefeevale@gmail.com>"
 }
