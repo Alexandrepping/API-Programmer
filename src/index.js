@@ -70,7 +70,7 @@ app.put("/programmers/:id", validateprogrammerId, (request, response) => {
     languages,
   };
 
-  programmer[programmerIndex] = programmer;
+  programmers[programmerIndex] = programmer;
 
   return response.json(programmer);
 });
